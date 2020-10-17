@@ -1,0 +1,10 @@
+body{
+    margin: 2vw;
+    background-color: white;
+    background-image:url ("../img/imagen2.jpg");
+}
+.texto
+{  font-size: 28px;
+    padding: -20px;
+    margin: 10px;
+}
