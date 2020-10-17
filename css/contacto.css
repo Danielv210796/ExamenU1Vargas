@@ -1,0 +1,14 @@
+body{
+    margin: 2vw;
+    padding: 0;
+    background-color: white;
+    color: black;
+}
+.ajustar
+{
+    margin: 15vw;
+    margin-left: 6vw;
+    margin-right: 1200px;
+    text-align: left;
+    font-size:18px;
+}
