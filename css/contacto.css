@@ -6,13 +6,18 @@ body{
 }
 .ajustar
 {
-    margin: 15vw;
+    margin: 10vw;
     margin-left: 6vw;
     margin-right: 1200px;
     text-align: left;
     font-size:18px;
 }
-#map{
-    width: 50px;
-    height: 10px;
+.ajustar2
+{
+    margin: 0;
+    margin-left: 300px;
+}
+.map
+{
+    margin-left:300px;
 }

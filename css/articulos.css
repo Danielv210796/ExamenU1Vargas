@@ -3,3 +3,6 @@ body{
     background-color: white;
     color: gray;
 }
+/*Dipositivos Moviles*/
+
+@media screen and(min-width:300px)and (max-width:1199px)
