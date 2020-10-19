@@ -1,23 +1,38 @@
 body{
-    margin: 2vw;
+    margin: 0;
     padding: 0;
+    padding-top: 3%;
     background-color: white;
     color: black;
+    margin-left: 5%;
+    margin-right: 5%;
 }
-.ajustar
+.texto
 {
-    margin: 10vw;
-    margin-left: 6vw;
-    margin-right: 1200px;
-    text-align: left;
-    font-size:18px;
+   padding: 10px 5px 10px 5px;
+   color: rgba(54,11,11,0.726); 
 }
-.ajustar2
+.texto2
 {
     margin: 0;
-    margin-left: 300px;
+    padding: 0;
+    margin-top: -4%;
+    margin-left:65%;
+    color: rgba(54,11,11,0.726); 
+    font-size: 30px;  
 }
-.map
+
+/*Moto 4 Galaxy S5*/
+@media screen and(min-width:320)and(max-width:564px)
 {
-    margin-left:300px;
+    .texto
+    {
+       padding: 10px 5px 10px 5px;
+       color: rgba(54,11,11,0.726); 
+    }
+    .texto2
+    {
+width: 100%;
+    }
+ 
 }

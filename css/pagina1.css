@@ -3,7 +3,12 @@ body{
     background-color: white;
     background-image:url ("../img/imagen2.jpg");
     height: auto;
+    position: relative;
 }
+ /* Pcs */
+ @media screen and (min-width:360px)and(max-width:640px)
+{
+
 .centrado
 {   text-align: center;
     position: absolute;
@@ -12,6 +17,7 @@ body{
     top: 45%;
     left: 15%; 
     height: auto; 
+    display: inline-block;
 }
 .centrado2
 {   position: absolute;
@@ -48,4 +54,5 @@ body{
 {  font-size: 28px;
     padding: -20px;
     margin: 10px;
+}
 }
