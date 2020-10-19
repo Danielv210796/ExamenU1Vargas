@@ -1,4 +1,11 @@
-
+body
+{
+    background-image: url(../img/imagen1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: 'Roboto',sans-serif;
+}
 .home{
     text-align: center;
     color: white;
@@ -7,4 +14,5 @@
     left: 50%;
     position: relative;
     top: 35%;
+    font-family: 'Roboto',sans-serif;
 }
